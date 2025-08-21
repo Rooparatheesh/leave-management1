@@ -3,7 +3,6 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:firebase_core/firebase_core.dart';
-
 import 'package:leave_management1/view/forgot_password.dart';
 import 'package:leave_management1/view/login.dart';
 import 'package:leave_management1/view/profile_page.dart';
